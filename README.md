@@ -12,3 +12,6 @@ High Score: 368
 My conclusion is that with time and computing power, it is possible to solve games like Cartpole through trial and error.
 
 Video Demo Link: https://youtu.be/DVBUDrBlS8M
+
+GitHub Link: https://github.com/Minh-Thien-Bui/Cartpole.git
+
